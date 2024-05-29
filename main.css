@@ -1,0 +1,15 @@
+@media only screen and (min-width: 980px)
+{
+	#logo {
+		width: 177px;
+	}
+}
+
+#logo {
+	display: inline-block;
+	margin: 7px 0 10px 15px;
+}
+
+img {
+	vertical-align: middle;
+}
